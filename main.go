@@ -2,4 +2,4 @@ package main
 
 import "fmt"
 
-func main () { fmt.Println("Hello!") }
+func main () { fmt.Println("Hello! (v0.0.0+001)") }
